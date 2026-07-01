@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0308/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 葉衣觀自在菩薩經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1100.xml
+    old_id: T20n1100
+hash: sha256:d88acee0631bd985fe218a8b3316899959b603f9c39fc150b3c12cc27f816d00
