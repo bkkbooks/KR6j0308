@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0308_000.yaml, hash: 'sha256:d88acee0631bd985fe218a8b3316899959b603f9c39fc150b3c12cc27f816d00'}
-  - {seq: 1, filename: KR6j0308_001.yaml, hash: 'sha256:5def526f1fb358fa6922ff3630e2e369c13c6efcd4bf0850c5f758dacff1e02d'}
+  - {seq: 1, filename: KR6j0308_001.yaml, hash: 'sha256:498405c654ff43d5cf285f30d567827cdc379fe616f6a5ab0cd7655587eec6eb'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0308_001.markers.yaml, hash: 'sha256:2491fad9d79081b9f615d9c8d27761c8d8c01b1db0eaeb5ac96720c6ce1e35bb'}
+  - {seq: 0, role: markers, filename: assets/KR6j0308_000.markers.yaml, hash: 'sha256:db63f4c73d05252ff11649a42463cf9ced0e30f621236c65137c970e4abfebc6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0308_001.markers.yaml, hash: 'sha256:ff3f2c04a783671fc8e3c315e7be7f997baf360014740fb192282ae1b7afd10c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 葉衣觀自在菩薩經
   type: juan
   level: 1
-hash: sha256:9eb0f0add4584cb58656be00aaf6cb31573db0651a38f937ed535c3041c77bd8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:be4d155efcc7b2760107216ad78fab388fa548240c8f8a376baeffce360d729e
