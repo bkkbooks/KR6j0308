@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0308/v1
 canonical_location: https://kanripo.org/bkk/KR6j0308/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 葉衣觀自在菩薩經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0308_000.yaml, hash: 'sha256:d88acee0631bd985fe218a8b3316899959b603f9c39fc150b3c12cc27f816d00'}
-  - {seq: 1, filename: KR6j0308_001.yaml, hash: 'sha256:498405c654ff43d5cf285f30d567827cdc379fe616f6a5ab0cd7655587eec6eb'}
+  - {seq: 1, filename: KR6j0308_001.yaml, hash: 'sha256:0207adef72cde38e6ee10dc1f2decc0afbf798acecfc1002bb98a16fa06d595e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0308_000.markers.yaml, hash: 'sha256:db63f4c73d05252ff11649a42463cf9ced0e30f621236c65137c970e4abfebc6'}
-  - {seq: 1, role: markers, filename: assets/KR6j0308_001.markers.yaml, hash: 'sha256:ff3f2c04a783671fc8e3c315e7be7f997baf360014740fb192282ae1b7afd10c'}
+  - {seq: 1, role: markers, filename: assets/KR6j0308_001.markers.yaml, hash: 'sha256:4c929bde894a76c7af393d5c492a2cb94301fc6199a8929bd29ce16bc6ac9c1f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 葉衣觀自在菩薩經
   type: juan
   level: 1
-hash: sha256:be4d155efcc7b2760107216ad78fab388fa548240c8f8a376baeffce360d729e
+hash: sha256:8896fde8f69e81c84c7b66b8376763a4aa0699ab3c4c3eaf85469097b7fcfc30
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
